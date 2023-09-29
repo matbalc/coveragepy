@@ -1,0 +1,6 @@
+-   id: coverage
+    name: run coverage
+    description: runs coverage
+    entry: coverage
+    language: python
+    types: [python]
